@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 ## I'm currently starting my journey into programming and data science in the field of digital humanities. 
 
