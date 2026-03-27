@@ -1,6 +1,6 @@
 ## Welcome
 
-## I'm learning Python. ## #Digital Humanities
+## I'm learning Python. #Digital Humanities
 
 <!--
 **bichobolita/bichobolita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
