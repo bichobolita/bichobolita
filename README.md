@@ -1,6 +1,6 @@
-## Hi there
+## Welcome
 
-## I'm currently starting my journey into programming and data science in the field of digital humanities. 
+## I'm learning Python. ## #Digital Humanities
 
 <!--
 **bichobolita/bichobolita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
