@@ -3,7 +3,7 @@
 ## I'm learning Python.
 
 ### Excited for my coding journey! 
-### #Aspiring Python Adept
+### #aspiringpythonadept
 ### #Digital Humanities
 
 <!--
